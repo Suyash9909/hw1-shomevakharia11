@@ -35,12 +35,11 @@ def strings():
 
     great = stevens + " is great"
 
-    # Replace "great" with "good" in variable great and assign it to a new variable good.
+    # Replace "great" with "good" in variable great and assign it to a new variable good
 
     good = great.replace("great", "good")
 
     return stevens, stevens_7, length, great, good
-
 
 def list_1D():
     """
